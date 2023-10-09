@@ -1,10 +1,8 @@
 # A02
-<h2>
-  Part 1: Directions on Webstorm
-  1. Install Webstorm. It can be downloaded from <a> href="https://www.jetbrains.com/webstorm/download/#section=mac"</a>
-  2. Install GIT. It can be downloaded from <a> href="https://git-scm.com/downloads"</a>
+<h2> Part 1: Directions on Webstorm</h2>
+  <h2> 1. Install Webstorm. It can be downloaded from <a> href="https://www.jetbrains.com/webstorm/download/#section=mac"</a> </h2>
+ <h2> 2. Install GIT. It can be downloaded from <a> href="https://git-scm.com/downloads"</a> <h/2>
   3. 
-</h2>
 
 <h2> Part 2: Glossary </h2>
   <h2> <strong> Branch: </strong> A part of the repository that can be edited or worked on without disturbing the live site.  </h2>
