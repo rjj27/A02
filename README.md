@@ -8,9 +8,9 @@
   <h2> <strong> GitHub: </strong> A cloudbased platform that allows software development and version control.  </h2>
   <h2> <strong> Merge: </strong> Taking changes from one branch in the repository and adding it to another. This can be done through a pull request.  </h2>
   <h2> <strong> Merge Conflict: </strong> This is when differences appear in the same line of the file between merged branches. </h2>
-  <h2> <strong> Push: </strong> </h2>
-  <h2> <strong> Pull: </strong> </h2>
-  <h2> <strong> Remote: </strong> </h2>
-  <h2> <strong> Repository: </strong> </h2>
+  <h2> <strong> Push: </strong> Sending commited changes to a remote repository. </h2>
+  <h2> <strong> Pull: </strong> When a change is being fetched and merged. </h2>
+  <h2> <strong> Remote: </strong> This is when a version of the repository or branch is on a server. </h2>
+  <h2> <strong> Repository: </strong> Can be considered the project's folder and holds all of the project's files. </h2>
 <h2> Sources </h2>
 
