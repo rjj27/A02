@@ -4,5 +4,9 @@
   <h2> <b> Clone: </b> </h2>
   <h2> <b> Commit: </b> </h2>
   <h2> <b> Fetch: </b> </h2>
+  <h2> <b> GIT: </b> </h2>
+  <h2> <b> GitHub: </b> </h2>
+  <h2> <b> Merge: </b> </h2>
+  <h2> <b> Merge Conflict: </b> </h2>
 <h2> Sources </h2>
 
