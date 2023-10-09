@@ -2,7 +2,12 @@
 <h2> Part 1: Directions on Webstorm</h2>
   <h2> 1. Install Webstorm. It can be downloaded from <a> href="https://www.jetbrains.com/webstorm/download/#section=mac"</a> </h2>
  <h2> 2. Install GIT. It can be downloaded from <a> href="https://git-scm.com/downloads"</a> <h/2>
-  3. 
+ <h2> 3. Create an account on GitHub.  </h2> 
+  <h2> 4. Go to system prefernces and connect Webstorm and Github. </h2>
+   <h2> 5. Enter the path to the git.exe file.</h2>
+   <h2>6. Register the account by signing into GitHub</h2>
+  <h2> 7. Click the plus sign in the upper right hand corner to create a new repoistory.</h2>
+  <h2>8. Make the new repository public and add the README file.  </h2>
 
 <h2> Part 2: Glossary </h2>
   <h2> <strong> Branch: </strong> A part of the repository that can be edited or worked on without disturbing the live site.  </h2>
