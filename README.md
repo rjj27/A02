@@ -8,6 +8,9 @@
    <h2>6. Register the account by signing into GitHub</h2>
   <h2> 7. Click the plus sign in the upper right hand corner to create a new repoistory.</h2>
   <h2>8. Make the new repository public and add the README file.  </h2>
+  <h2> 9. Go to Webstorm and click VCS and import to Version Control to create a mew repository. </h2>
+  <h2> 10. Enter the GitHub repository hub and the local path name </h2>
+  <h2> </h2>
 
 <h2> Part 2: Glossary </h2>
   <h2> <strong> Branch: </strong> A part of the repository that can be edited or worked on without disturbing the live site.  </h2>
