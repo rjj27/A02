@@ -13,4 +13,5 @@
   <h2> <strong> Remote: </strong> This is when a version of the repository or branch is on a server. </h2>
   <h2> <strong> Repository: </strong> Can be considered the project's folder and holds all of the project's files. </h2>
 <h2> Sources </h2>
+<a> href="https://docs.github.com/en/get-started/quickstart/github-glossary#commit"GitHub Glossary </a>
 
