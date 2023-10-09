@@ -1,5 +1,12 @@
 # A02
-<h2> Glossary </h2>
+<h2>
+  Part 1: Directions on Webstorm
+  1. Install Webstorm. It can be downloaded from <a> href="https://www.jetbrains.com/webstorm/download/#section=mac"</a>
+  2. Install GIT. It can be downloaded from <a> href="https://git-scm.com/downloads"</a>
+  3. 
+</h2>
+
+<h2> Part 2: Glossary </h2>
   <h2> <strong> Branch: </strong> A part of the repository that can be edited or worked on without disturbing the live site.  </h2>
   <h2> <strong> Clone: </strong> A copy of the repository that does not live on the website server, but on the computer. This can be edited offline and synced at a later time. </h2>
   <h2> <strong> Commit: </strong>  To save your work or revision. Git records them and they can be traced. </h2>
